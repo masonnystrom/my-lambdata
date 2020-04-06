@@ -1,2 +1,2 @@
 # my-lambdata
-repo for lambda data/python scripts
+repository for lambda data/python scripts
