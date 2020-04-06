@@ -5,7 +5,8 @@ repository for lambda data/python scripts
 ## Installation
 
 ```sh
-pip install ____________ # todo: get addres from pypi and update this line
+pip install -i https://test.pypi.org/project/enlarge-mason-nystrom/1.0/
+ # todo: get addres from pypi and update this line
 ```
 
 ## Usage
